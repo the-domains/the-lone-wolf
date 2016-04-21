@@ -1,0 +1,28 @@
+name: The Lone Wolf
+favicon: null
+layout_spectrum: 0.17477554571814835
+typography_spectrum: 0.25626217806711793
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.34563410258851945
+  lightness: 0.7222701953724027
+  saturation: 0.434264661045745
+  rhythmicContrast: 0.7240132729057223
+purpose: []
