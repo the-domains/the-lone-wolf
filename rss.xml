@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Lone Wolf]]></title>
         <description><![CDATA[The Lone Wolf]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-lone-wolf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:14:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 07:40:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-lone-wolf/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e15f981-5ded-4ce7-9da4-278c81c81dc0.jpg">]]></description>
+            <link>https://thegrid.ai/the-lone-wolf/the-comfy-nap/index.html</link>
+            <guid isPermaLink="false">1b63e637-f1f0-4078-99ff-49fdda332411</guid>
+            <pubDate>Fri, 22 Apr 2016 07:39:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de03bd74-a2b8-401f-a8c2-af67e86fd26e.jpg">]]></description>
-            <link>undefinedits-just-a-start/index.html</link>
+            <link>https://thegrid.ai/the-lone-wolf/its-just-a-start/index.html</link>
             <guid isPermaLink="false">283b1f50-6c1c-449e-8aa1-cbf65e6fdafe</guid>
             <pubDate>Thu, 21 Apr 2016 17:14:04 GMT</pubDate>
         </item>
